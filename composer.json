@@ -1,0 +1,9 @@
+{
+    "name": "embanet-compass/moodle-atto-fontfamily",
+    "type": "moodle-atto",
+    "description": "Atto Font Family Plugin",
+    "extra": {
+        "installer-name": "fontfamily",
+        "moodle": { "package_folder_name" : "fontfamily" }
+    }
+}
